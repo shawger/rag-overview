@@ -1,2 +1,3 @@
 .env
 data/**
+rag_overview/.ipynb_checkpoints/**
