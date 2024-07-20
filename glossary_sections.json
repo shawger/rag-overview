@@ -1,0 +1,506 @@
+[
+  {
+    "id": "f8453daf-c942-4480-af72-25469559a6ce",
+    "content": "## Highwood Glossary - Active Remote Imaging\r\nMeasures methane by emitting an energy source with a specific wavelength and measure signal intensity reduction due to absorption."
+  },
+  {
+    "id": "06cec53f-cfd7-4a48-b116-81ebc776aa55",
+    "content": "## Highwood Glossary - Administering Organization\r\nThe entity responsible for running a voluntary emissions reduction initiative and managing participation."
+  },
+  {
+    "id": "d6d3d02f-d632-4dbe-8c23-10d578c80dbc",
+    "content": "## Highwood Glossary - Alberta Energy Regulator (AER)\r\nThe regulatory body that oversees the development of oil, natural gas, oil sands, and coal resources in the province of Alberta, Canada."
+  },
+  {
+    "id": "418110b0-c981-497b-8c8f-aedaf2d4868d",
+    "content": "## Highwood Glossary - Distribution\r\nThe segment of the natural gas value chain comprised of pipelines and metering and regulating equipment, used to deliver natural gas to end-use consumers."
+  },
+  {
+    "id": "fc9dd582-e014-4710-9eae-80848fdeeea2",
+    "content": "## Highwood Glossary - Audio, Visual, and Olfactory (AVO)\r\nAudio, visual, and olfactory (AVO) is a methane detection survey performed using human senses. Regulations often have some form of AVO requirement that is equipment or site specific."
+  },
+  {
+    "id": "3250464a-3ac3-4952-8a9a-2bea95d18469",
+    "content": "## Highwood Glossary - Abandoned\r\nDefinition depends on jurisdiction. In Canada, abandoned wells have been plugged but where the site has not been fully reclaimed (similar to a plugged well in the United States). In the U.S., abandoned wells are unproductive wells with a known operator but are often confused with orphaned wells. Due to the confusion and multiple definitions, we recommend avoiding use of the term 'abandoned' unless in a specific regulatory context."
+  },
+  {
+    "id": "4ff22e45-36f8-4407-8b33-7d4bb1a11c31",
+    "content": "## Highwood Glossary - Audit\r\nThe verification of an organization's emissions data, practices, or performance by a third party."
+  },
+  {
+    "id": "9b3d4e11-cd04-46be-99e2-7d7dd34ca9e0",
+    "content": "## Highwood Glossary - Auditable\r\nDesigned to enable verification of a organization's progress toward a goal or adherence to a voluntary initiative or regulation."
+  },
+  {
+    "id": "c0bfd3af-a6b6-4a9e-b56c-d61db4ea69b2",
+    "content": "## Highwood Glossary - Binding\r\nA voluntary initiative that incorporates compliance measures."
+  },
+  {
+    "id": "2d4d38ed-ddf9-4f61-ba5c-95c4844fe044",
+    "content": "## Highwood Glossary - Abatement\r\nThe use of technologies and operational practices to directly reduce emissions from oil and natural gas systems."
+  },
+  {
+    "id": "116d95c2-819f-4116-9f9f-759bdb1f4abb",
+    "content": "## Highwood Glossary - Active\r\nA site that is actively producing, processing, transporting, or storing at least one product."
+  },
+  {
+    "id": "5994a8b0-5d2e-4efc-bfb0-194f2da469e5",
+    "content": "## Highwood Glossary - Blowdown\r\nThe purposeful venting of natural gas to the atmosphere during well operations and/or during pipeline operations or maintenance to relieve pressure in the pipe."
+  },
+  {
+    "id": "14f82711-c5be-4ead-9374-49556dcc6a19",
+    "content": "## Highwood Glossary - Active Facility\r\nA facility that is actively processing or handling oil or natural gas fluid streams."
+  },
+  {
+    "id": "1654efb0-e193-4df2-871d-5a9187d37ba4",
+    "content": "## Highwood Glossary - Comprehensive Monitoring Program\r\nA methane monitoring program that combines screening methods with close-range methods to diagnose and precisely pinpoint leaking components."
+  },
+  {
+    "id": "025ecac6-927b-48ab-b99c-fb08c3df4b1b",
+    "content": "## Highwood Glossary - Downstream\r\nThe final stage in the oil and gas value chain. Activities include distribution, retail, marketing, product development, and consumption by the end user."
+  },
+  {
+    "id": "adc61937-4e82-425f-975a-38a76b4fa9fd",
+    "content": "## Highwood Glossary - Activity Factor (AF)\r\nA population of emitting equipment that can be multiplied by an emission factor to estimate emissions volume or mass over time. Examples of common activity factors include the mileage of natural gas pipeline, the count of thief hatches on a facility, the mechanical power of gas turbines, or other parameters that directly influence the rate of operation (e.g., engine operating hours)."
+  },
+  {
+    "id": "195e53c9-d0ba-4ee3-81ac-c2bfdd3090c3",
+    "content": "## Highwood Glossary - Continuous Measurement\r\nMethane detection technology installed at a facility to provide repeated emissions measurements at high temporal resolution. Typical continuous measurement technologies may acquire measurements multiple times per second or multiple times per day."
+  },
+  {
+    "id": "f11b6acb-1a7a-46f3-949a-8742ae89279f",
+    "content": "## Highwood Glossary - Alternative Fugitive Emissions Management Program (alt-FEMP)\r\nInnovative and science-based alternatives to fugitive emissions management programs (FEMPs). Alternative programs may incorporate the use of various LDAR technologies such as: unmanned aerial vehicles, vehicle-mounted sensors, and continuous monitoring devices to detect, track, repair, and report fugitive emissions. This term is used in Western Canada; in the U.S. and elsewhere, the term \"Alternative LDAR\" is often used."
+  },
+  {
+    "id": "25ea0338-7ef7-4152-a5ce-7eda39adaef0",
+    "content": "## Highwood Glossary - Anomaly\r\nA discernible increase of a measured atmospheric gas over a baseline in which both the discernible increase and baseline are pre-defined. An anomaly occurs when the atmospheric concentration of a gas becomes larger than the minimum atmospheric concentration of that gas a technology can discern above noise. Not to be confused with detection."
+  },
+  {
+    "id": "4e5d3ec7-d21b-42b5-9070-acb92770f78f",
+    "content": "## Highwood Glossary - Anthropogenic\r\nOf, relating to, or resulting from the influence of human beings on nature."
+  },
+  {
+    "id": "545b4335-30ac-4ce2-bd9e-a70f2defce37",
+    "content": "## Highwood Glossary - Associated Gas\r\nSweet or sour natural gas that is associated with the production of crude oil or crude bitumen. Often referred to as \"solution gas\", associated gas breaks out of solution from crude oil or crude bitumen under specific reservoir or production conditions."
+  },
+  {
+    "id": "64a7e1dc-ca8f-41c4-a2c0-5dc6977d485f",
+    "content": "## Highwood Glossary - Atmospheric Tank\r\nA storage tank in which product is stored at ambient pressure. Atmospheric tanks are designed to operate at pressures less than 0.5 psig."
+  },
+  {
+    "id": "b4f041a1-1536-4afd-98d9-980b1ae64b34",
+    "content": "## Highwood Glossary - Atmospheric Transport Modeling\r\nA remote emissions measurement technique. Downwind mixing ratios of a pollutant, geospatial data (e.g., source height and location), and environmental data (e.g., wind speed and direction) are used to infer the location and/or mass or volumetric flux of a source. Many approaches exist."
+  },
+  {
+    "id": "ecc3719a-a94b-4a5d-bc20-49e7d0fb3f7e",
+    "content": "## Highwood Glossary - Attribution\r\nDetermination of the emission source category associated with a detection event."
+  },
+  {
+    "id": "a2824ca3-36ac-40ac-98bb-9fcbcd19a51d",
+    "content": "## Highwood Glossary - Continuous Monitoring\r\nMethane detection technology installed at a facility, on or near equipment with the potential to emit, that monitors for methane emissions on an ongoing basis."
+  },
+  {
+    "id": "48520c84-00c0-4d2a-a0b1-ac9535bfc10a",
+    "content": "## Highwood Glossary - Bottom-up Emissions Inventory\r\nA list of emission sources by category and quantity and aggregated into overall estimates that could be by site, business unit, and/or company over a specified period of time (typically a reporting year). Bottom-up inventories can use generic emission factors derived from industry averages, company-specific factors, direct measurement, engineering calculations, or manufacturer data."
+  },
+  {
+    "id": "cbdaf023-b967-4331-966a-a3c46feb15d0",
+    "content": "## Highwood Glossary - Bottom-up Inventory Quantification Methodology\r\nDocumentation of facility specific details, such as facility process operations, production, and emissions calculations used during a reporting period."
+  },
+  {
+    "id": "ad0e8565-e7f4-43a8-bc94-863210be3cfa",
+    "content": "## Highwood Glossary - Bottom-up Measurement\r\nA measurement that occurs at a granular scale (e.g., component) used to estimate emissions more broadly. Bottom-up measurements can be averaged into emission factors and combined with activity factors to build a bottom-up inventory."
+  },
+  {
+    "id": "866a0782-3ce2-4756-9a4a-8612a2268f17",
+    "content": "## Highwood Glossary - British Columbia Oil and Gas Commission (BCOGC)\r\nThe governing body that oversees oil and gas activities within the province of British Columbia, Canada."
+  },
+  {
+    "id": "82c08f32-ac4b-4509-9ce6-8710ebb771f6",
+    "content": "## Highwood Glossary - Carbon Intensity\r\nThe ratio of carbon emissions to some measure of productivity, such as natural gas production or energy content of oil."
+  },
+  {
+    "id": "20182f38-957a-4ff7-8b3c-0556191686d7",
+    "content": "## Highwood Glossary - Carbon Market\r\nA greenhouse gas trading system that enables monetization of emissions reductions and/or strong performance relative to other market participants. Participants may buy or sell units of GHG emissions in order to operate within the limits outlined by the agreement governing a particular market."
+  },
+  {
+    "id": "32ac7086-2e15-4843-bf20-52b5a04f4906",
+    "content": "## Highwood Glossary - Carbon Offset\r\nA unit of greenhouse gas emissions reduced by one actor that can be traded to compensate for emissions by another actor."
+  },
+  {
+    "id": "d992a522-b585-42c4-9066-80dfabfbbf11",
+    "content": "## Highwood Glossary - Dispersion Modeling\r\nMathematical simulations that predict how a pollutant will move through the atmosphere."
+  },
+  {
+    "id": "d84c850d-ba02-4dd6-b4ab-243df264e1fe",
+    "content": "## Highwood Glossary - Certification\r\nA voluntary initiative that holds participants to binding standards that may include emissions reduction performance targets, use of specific technologies, and adoption of methodologies. Certifications entail an explicit declaration of achievement from the administering organization to the participant."
+  },
+  {
+    "id": "3bafcc77-5e33-4a4f-b5c2-e4bb9f52ef7c",
+    "content": "## Highwood Glossary - Combustion\r\nThe chemical reaction where a hydrocarbon reacts with oxygen to create heat and oxides such as carbon dioxide and water. Energy is obtained from fossil fuels through combustion of the fuel."
+  },
+  {
+    "id": "7c3f738b-d6fa-49fb-a394-701bf2aeee5f",
+    "content": "## Highwood Glossary - Combustion Efficiency\r\nHow efficiently a piece of equipment is burning a fuel. Combustion efficiency is an important consideration when estimating emissions, since combustion of natural gas destroys methane and creates carbon dioxide, which has a lower greenhouse potential. Higher combustion efficiencies will result in a higher degree of methane destruction and lower overall carbon intensity."
+  },
+  {
+    "id": "4be03380-ec04-4c3e-a52a-5b436a00be39",
+    "content": "## Highwood Glossary - Combustion Slip\r\nMethane emissions resulting from incomplete combustion of natural gas by an engine."
+  },
+  {
+    "id": "92bbf0e3-06ca-4974-92f0-02a418ab6c04",
+    "content": "## Highwood Glossary - Commitment\r\nA voluntary initiative requiring participants to pledge efforts toward a goal that is decided upon by a governing body or collectively by participants within a group. Commitments are typically auditable, binding, and focus on achieving future goals."
+  },
+  {
+    "id": "7bc97e3e-85d0-4f20-9022-7e570aedd0d8",
+    "content": "## Highwood Glossary - Completion\r\nThe work incorporating the steps taken to transform a drilled well into a producing one. These steps include, but are not limited to: casing the well, cementing the casing, perforating the casing, installing down hole flow control or isolation equipment, hydraulic fracturing, and installing a well head with a production tree."
+  },
+  {
+    "id": "a9062796-f049-47fa-8be5-75c510dc8c45",
+    "content": "## Highwood Glossary - Component\r\nA component is the smallest scale of oil and gas infrastructure. Examples include valves, flanges, and threaded connections. Multiple components comprise equipment (e.g., tanks, separators) and a site may have multiple pieces of equipment or equipment groups."
+  },
+  {
+    "id": "6a803994-40e5-4397-a3bb-aebdbeb5b7a5",
+    "content": "## Highwood Glossary - Instrument Air\r\nAir that is used to supply pneumatic devices."
+  },
+  {
+    "id": "46087043-7de5-49c7-af1c-e7c0dc2997db",
+    "content": "## Highwood Glossary - Controlled Release\r\nIntentional releases of methane at a known location and rate used to test the performance of methane detection and quantification technology. Colorado State University's METEC facility is a well-known testing facility."
+  },
+  {
+    "id": "275261e5-0cf4-43de-b37e-2d1a2f4b02ca",
+    "content": "## Highwood Glossary - Cost of Mitigation\r\nA metric (usually $/tonne of CO2 equivalent) that enables apples-to-apples comparison of emission reduction opportunities."
+  },
+  {
+    "id": "e8494072-5272-4464-884b-979a18175bd4",
+    "content": "## Highwood Glossary - Design Emissions\r\nEmissions associated with a piece of equipment or facility under normal operations (operating within design parameters). Includes vented emissions and emissions from incomplete combustion."
+  },
+  {
+    "id": "64888832-a907-4c37-ae8c-347a6578ad11",
+    "content": "## Highwood Glossary - Detection\r\nA determination by a method or device that methane levels are above ambient background concentration and that a source may be present. Typically requires an analysis of one or a series of measured anomalies. Detections are often defined in terms of magnitude and/or duration of elevated mixing ratio. For example, a detection event could be defined as an anomaly that reaches an estimated mixing ratio of 3 standard deviations above a 24-hour baseline."
+  },
+  {
+    "id": "62761084-592c-4ede-a3f6-25d331914379",
+    "content": "## Highwood Glossary - Differentiation\r\nThe process of differentiating a product (typically natural gas) on the basis of some characteristic (typically a measure of carbon intensity or ESG performance)."
+  },
+  {
+    "id": "335eaa8b-0bfd-440b-b290-d6daf8cc632b",
+    "content": "## Highwood Glossary - Disclosure\r\nThe act of releasing private information to a target audience."
+  },
+  {
+    "id": "e7b6dcfb-251d-48d0-a75b-cc3ee0c4c7c0",
+    "content": "## Highwood Glossary - Disclosure Level\r\nA measure of disclosure for voluntary initiatives introduced in Highwood's Voluntary Initiatives report."
+  },
+  {
+    "id": "7775efe5-096b-47f1-9c26-016ef77280c5",
+    "content": "## Highwood Glossary - Drone\r\nA flying vehicle with no human on board, either automated or remotely operated (i.e., UAV)."
+  },
+  {
+    "id": "6d2b9358-b012-4d31-ac5d-a7839bfc038a",
+    "content": "## Highwood Glossary - ECCC\r\nEnvironment and Climate Change Canada."
+  },
+  {
+    "id": "11a66e6e-3323-4006-9b56-38c94132dbf9",
+    "content": "## Highwood Glossary - Emission Factor (EF)\r\nA value that describes typical mass or volume of methane emissions per unit of activity. Emission factors can be generic or company specific."
+  },
+  {
+    "id": "37db2e91-aed9-486d-82e1-51c18563f2aa",
+    "content": "## Highwood Glossary - Emission Rate\r\nA measure of how quickly a pollutant is being introduced to the atmosphere. Typically expressed in either mass per unit time (e.g., kg/hr) or volume per unit time (e.g., SCF/hr). Many units exist and are used."
+  },
+  {
+    "id": "eb155cf4-699d-4534-81f1-23130deb5adb",
+    "content": "## Highwood Glossary - Emission Trading System (ETS)\r\nMarket-based instruments that create incentives to reduce emissions where these are most cost-effective. In most regulatory trading systems, the government sets an emissions cap in one or more sectors, and the entities that are covered are allowed to trade emissions permits. Rapid growth of voluntary ETSs is also underway."
+  },
+  {
+    "id": "a3f00808-f8ce-4165-836b-c8de2babfd2e",
+    "content": "## Highwood Glossary - Emissions Inventory\r\nA list of air pollutants discharged into the atmosphere over a period, typically a year. Inventories can exist for a variety of entities, including companies, industry groups (e.g., OGCI, ONE Future), basins, and countries. Inventories are often broken into source categories, which may be general (e.g., venting versus fugitives) or granular (e.g., high-bleed versus low-bleed pneumatics)."
+  },
+  {
+    "id": "809ea3e6-6a7f-4216-8428-9a0a02f37506",
+    "content": "## Highwood Glossary - Engineering Solution\r\nA solution to a problem or difficult situation that relies on the application of math and science."
+  },
+  {
+    "id": "b8f3acdc-789d-46e7-9e96-323c9b36d6ad",
+    "content": "## Highwood Glossary - Environmental Protection Agency (EPA)\r\nA United States government agency whose work it is to improve society’s understanding of climate change and its impacts on human health and the environment. The data, tools, and resources that EPA develops can also be used by other agencies, organizations, states, tribes, and communities to help tackle the climate crisis effectively, equitably, and sustainably."
+  },
+  {
+    "id": "6a467067-3e27-431b-884f-2987b7740f9d",
+    "content": "## Highwood Glossary - Environmental, Social, and Governance (ESG)\r\nRefers to a collection of corporate performance evaluation criteria that assess the robustness of a company’s governance mechanisms and its ability to effectively manage its environmental and social impacts. Examples of ESG data include the quantification of a company’s carbon emissions, water consumption or customer privacy breaches. Institutional investors, stock exchanges and boards increasingly use sustainability and social responsibility disclosure information to explore the relationship between a company’s management of ESG risk factors and its business performance."
+  },
+  {
+    "id": "5c6506c9-3e3e-466a-8741-dab016b06d0d",
+    "content": "## Highwood Glossary - Equipment\r\nIn emissions attribution, equipment is the second most granular piece of oil and gas infrastructure. Examples include tanks and separators. See definition of component for more details."
+  },
+  {
+    "id": "f965e92a-1a2e-4228-9d42-daf83ccf59c0",
+    "content": "## Highwood Glossary - Equivalence\r\nThe concept that two LDAR programs mitigate equal amounts of emissions. In the context of LDAR programs, alternative work practices and technologies are required to demonstrate that they meet or exceed mitigated emissions under regulatory frameworks and voluntary initiatives (e.g., MiQ)."
+  },
+  {
+    "id": "b4b094d7-6f39-4281-a710-ffce19bfcddd",
+    "content": "## Highwood Glossary - Flaring\r\nAn intentional, controlled burning of natural gas. Gas is ignited at the top of a flare stack, creating a characteristic flame."
+  },
+  {
+    "id": "69d4daeb-e7c6-476f-83b7-ce27c97aabd3",
+    "content": "## Highwood Glossary - Flashing\r\nVenting that occurs in a storage tank when the pressure of liquid with entrained gas drops and lighter compounds dissolved in the liquid are released/vented off."
+  },
+  {
+    "id": "5c33fdb9-d247-4ec1-bc68-7f845a784e85",
+    "content": "## Highwood Glossary - Follow-up Survey\r\nAn inspection to confirm or deny potential leaks detected through a screening survey. Typically, screening technology will identify a potential leak at the site or equipment-scale. Follow-up surveys diagnose leaks at the component scale, typically with handheld detection methods."
+  },
+  {
+    "id": "ff4974ff-c396-4a3f-b108-fe759e70390f",
+    "content": "## Highwood Glossary - Fugitive Emissions\r\nUnintentional methane and/or other hydrocarbon emissions. Examples include leaks, process upsets, and emissions from human error, such as leaving a thief hatch open on a storage vessel."
+  },
+  {
+    "id": "1b5ff3e1-0363-4571-b685-f16cb890a13f",
+    "content": "## Highwood Glossary - Fugitive Emissions Management Program (FEMP)\r\nA program that is intended to complement a duty holder’s overall emissions reduction strategy by establishing a plan and supporting systems to systematically detect and manage fugitive emissions. This plan includes the systematic detection and repair of leaks, malfunctioning equipment, and surface casing vent flows. Detection of these leaks relies on regular surveys or screenings of sites for fugitive emissions. The term FEMP is characteristic of Western Canada. In the U.S. and elsewhere, the term 'LDAR Program' is often used."
+  },
+  {
+    "id": "a0a84faa-04af-4dd9-a99b-8d666b0d7dce",
+    "content": "## Highwood Glossary - Gas Capture\r\nRe-routing natural-gas which would otherwise be vented to the atmosphere."
+  },
+  {
+    "id": "3d0d2bba-51c8-471e-97bc-43a34fabc716",
+    "content": "## Highwood Glossary - Gathering\r\nThe collection of petroleum products from their extraction point (wells), and their transport to a processing facility. A typical gathering system is highly branched, and consists of small-medium diameter pipelines with medium operating pressures."
+  },
+  {
+    "id": "93bea10a-1f2a-442a-904f-af8a58716b75",
+    "content": "## Highwood Glossary - Gaussian Plume Model\r\nThe most commonly used dispersion model (see dispersion modeling). The Gaussian plume model is a relatively simple model (conceptually and computationally) that assumes the plume follows a normal (Gaussian) distribution in 3 dimensions."
+  },
+  {
+    "id": "5403277f-926b-4653-aca7-4db26551323b",
+    "content": "## Highwood Glossary - Greenhouse Gas (GHG)\r\nA gas that traps heat in the atmosphere, such as carbon dioxide, methane, nitrous oxide, and fluorinated gases."
+  },
+  {
+    "id": "88002d62-a4a8-42dd-998c-2412f737e9b1",
+    "content": "## Highwood Glossary - GHG Protocol\r\nAn emissions quantification framework that is widely used by businesses, industry associations, NGOs, and other organizations. Some initiatives use the GHG Protocol for their emissions quantification requirements. GHG Protocol has published several standards but is recognized for these two emission quantification guidelines: (1) Corporate Standard – for scope 1, 2, and energy-related scope 3, and (2) Corporate Value Chain (Scope 3) Standard – for life-cycle emissions, both upstream and downstream."
+  },
+  {
+    "id": "175ba6a6-4d3e-42c9-9ba7-ae5c8068a3a7",
+    "content": "## Highwood Glossary - Instrument Gas\r\nNatural gas that is used to supply pneumatic devices."
+  },
+  {
+    "id": "53cef680-51ca-47a9-b48f-2fcb623abb96",
+    "content": "## Highwood Glossary - Global Warming Potential (GWP)\r\nGWP was developed to allow comparisons of the global warming impacts of different gases. Specifically, it is a measure of how much energy the emissions of 1 ton of a gas will absorb over a given period of time relative to the emissions of 1 ton of carbon dioxide (CO2). The larger the GWP, the more that a given gas warms the Earth compared to CO2 over that time period. Because different GHGs break down in the atmosphere at different rates, the time period frequently used to calculate GWPs is 100 years. GWPs provide a common unit of measure, which allows analysts to add up emissions of different gases, and helps policymakers devise strategies to reduce emissions."
+  },
+  {
+    "id": "189e0e26-3e61-4e31-b0c2-41aa472de5ae",
+    "content": "## Highwood Glossary - Handheld Instrument\r\nA small, portable methane detection instrument that is often used to detect and diagnose leaks at the component scale. Examples include optical gas imaging (OGI) cameras and handheld organic vapor analyzers (OVAs)."
+  },
+  {
+    "id": "cec52389-3aa5-4228-aa26-f878ee7efab5",
+    "content": "## Highwood Glossary - Heavy-tailed Distribution\r\nA highly skewed probability distribution. Most emissions distributions are heavy-tailed, with a small number of super-emitters accounting for the majority of emissions."
+  },
+  {
+    "id": "d5ce9450-3cc7-43fd-a015-27f4e5b468d8",
+    "content": "## Highwood Glossary - Hot Tap\r\nThe ability to safely tie into a pressurized system (e.g., pipeline, process piping, pressure vessels, etc.) by drilling or cutting into it while it is on stream and under pressure."
+  },
+  {
+    "id": "9173f3c5-5d2a-4609-8107-cbf25964b05f",
+    "content": "## Highwood Glossary - Hydrocarbon\r\nA naturally occurring organic compound comprising hydrogen and carbon. Hydrocarbons can be as simple as methane (CH4), but many are highly complex molecules, and can occur as gases, liquids or solids. The molecules can have the shape of chains, branching chains, rings or other structures. Petroleum is a complex mixture of hydrocarbons. The most common hydrocarbons are natural gas, oil, and coal."
+  },
+  {
+    "id": "7a50546b-c5c5-4422-8130-9be5bcb42d74",
+    "content": "## Highwood Glossary - Inactive\r\nA site that is not actively producing, processing, transporting, or storing a product."
+  },
+  {
+    "id": "0ccadcaf-54f5-4723-8dc9-ece92ed89514",
+    "content": "## Highwood Glossary - Incomplete Combustion\r\nNatural gas fuel not combusted by an engine or flare. Incomplete combustion increases carbon intensity because methane has a higher GWP than carbon dioxide."
+  },
+  {
+    "id": "1a04df6e-fb62-4449-8926-daf9158c3a70",
+    "content": "## Highwood Glossary - Leak\r\nA type of fugitive emission in which hydrocarbons are unintentionally released to the atmosphere due to equipment failure. Most leaks come from failed valves and connections."
+  },
+  {
+    "id": "ab3f824f-7209-4dff-89de-03106d182c40",
+    "content": "## Highwood Glossary - Leak Detection and Repair (LDAR)\r\nLeak Detection and Repair is a work practice designed to identify leaking equipment so that emissions can be reduced through repairs. A component that is subject to LDAR requirements must be monitored at specified, regular intervals to determine whether or not it is leaking. Any leaking component must then be repaired or replaced within a specified time frame."
+  },
+  {
+    "id": "d13dc98c-e023-4c33-b64b-540d5601af1e",
+    "content": "## Highwood Glossary - Leak-size Distribution\r\nA distribution of leak rates for a group of sources. Leak-size distributions are often heavy-tailed, with a small number of large sources accounting for most emissions."
+  },
+  {
+    "id": "299e8332-46be-4332-8631-820c98622640",
+    "content": "## Highwood Glossary - Lifecycle Analysis\r\nA technique for assessing the environmental aspects associated with a product over its life cycle."
+  },
+  {
+    "id": "a2fa593b-ee53-4cb6-9063-e350810412b7",
+    "content": "## Highwood Glossary - Liquid Unloading\r\nRemoval of accumulated fluids from well bore either by venting (“blowing down”) or using artificial lift techniques (e.g., plunger lifts)."
+  },
+  {
+    "id": "e638408d-c199-4aac-b85d-b727b28ba784",
+    "content": "## Highwood Glossary - Liquified Natural Gas (LNG)\r\nNatural gas that has been cooled down to liquid form for ease and safety of non-pressurized storage or transport."
+  },
+  {
+    "id": "cc5a3d8c-2efc-407b-b845-baf034dd1824",
+    "content": "## Highwood Glossary - Localization\r\nIdentifying the physical location of a leak source. Localization can be done at different scales (site-level, equipment-level and component-level)."
+  },
+  {
+    "id": "3ac9b7db-546c-4793-955b-a64e5eec299c",
+    "content": "## Highwood Glossary - Measurement\r\nA general term for acquiring empirical emissions data from the environment."
+  },
+  {
+    "id": "b69de343-445f-4d2d-91fe-eec9026c9594",
+    "content": "## Highwood Glossary - Methane\r\nA colorless, odorless gas that occurs abundantly in nature and as a product of certain human activities. Its chemical formula is CH4."
+  },
+  {
+    "id": "a1f53ee9-c3cd-45d8-90cc-d0eccc35726d",
+    "content": "## Highwood Glossary - Methane Intensity\r\nThe amount of methane emitted divided by some measure of productivity, such as methane produced, volume of gas sent to sales, or amount of produced energy."
+  },
+  {
+    "id": "9860895a-75d6-4f17-947b-3045617bcc46",
+    "content": "## Highwood Glossary - Methane Monitoring Method\r\nThe combination of a methane monitoring technology, a work practice, and analytics, for use in an LDAR program. A methane monitoring method must clearly state any mandatory actions to be performed as part of the work practice, along with suitable operating conditions for the technology. These can include environmental conditions, limitations on facility types, technology configurations, and survey procedure (i.e., LDAR method)."
+  },
+  {
+    "id": "a1bc8c7d-d142-42ad-89a0-ee4720ca2336",
+    "content": "## Highwood Glossary - Methane Monitoring Technology\r\nThe process for identifying leaking equipment and conducting repairs. Includes the systematic implementation of one or more methane detection methods across a collection of assets. The program includes the method, or combination of methods, to be used for each facility, along with survey frequency, repair response, and reporting requirements. Regulations often mandate LDAR, and components subject to LDAR must be monitored at specified, regular intervals."
+  },
+  {
+    "id": "cf2fe6f1-b740-49a9-b9f0-87b74c029c57",
+    "content": "## Highwood Glossary - Midstream\r\nThe segment in the oil and gas value chain that falls between upstream and downstream. Activities include transmission and storage."
+  },
+  {
+    "id": "1e0eb319-1154-49d4-9517-ba653a97892b",
+    "content": "## Highwood Glossary - Minimum Detection Limit (MDL)\r\nThe smallest atmospheric concentration or emission rate that a measurement method is capable of discerning. Probability of detection is a preferred concept because sensitivity depends on context and detection is more likely under a range of favorable conditions."
+  },
+  {
+    "id": "7c09a952-25c2-4408-ae88-852a9ce8e5f0",
+    "content": "## Highwood Glossary - Mitigation\r\nThe amount that emissions are reduced below a baseline."
+  },
+  {
+    "id": "a0428264-985d-4633-acce-bab91f3544b1",
+    "content": "## Highwood Glossary - Mixing Ratio\r\nThe proportion of air that is methane, usually in parts per million (ppm) or billion (ppb). Can be for a point, a line (ppm-m), or a 3D area (e.g., column averages)."
+  },
+  {
+    "id": "d87dc5fc-332e-44be-ac3b-6176588afcc2",
+    "content": "## Highwood Glossary - National Inventory Report (NIR)\r\nAt its eighth session, the Conference of the Parties (COP), the decision-making body responsible for monitoring and reviewing the implementation of the United Nations Framework Convention on Climate Change, requested the secretariat to publish on its website the annual inventory submissions consisting of the national inventory report (NIR) and common reporting format (CRF) of all Parties included in Annex I to the Convention. The NIRs contain detailed descriptive and numerical information and the CRF tables contain all greenhouse gas (GHG) emissions and removals, implied emission factors, and activity data by source category."
+  },
+  {
+    "id": "b68e7068-fe0a-4e4b-b2c8-d4222210ce74",
+    "content": "## Highwood Glossary - Natural Gas\r\nNatural gas is a naturally occurring and flammable hydrocarbon gas that is used for fuel. Its primary component is methane, but it can also contain ethane, propane, butane, and pentanes. Impurities including oxygen, hydrogen sulfide (H2S), nitrogen, water, and carbon dioxide (CO2) are often also present."
+  },
+  {
+    "id": "da472521-3b60-4e3d-8bfc-c5f35086676b",
+    "content": "## Highwood Glossary - Net Zero\r\nAchieving a state where either (1) no greenhouse gases are emitted, or (2) remaining emissions are offset through other actions or technologies."
+  },
+  {
+    "id": "d3f6af2f-3568-463d-8f62-39042e29516f",
+    "content": "## Highwood Glossary - Nonroutine Venting\r\nUpset, emergency, or intermittent venting of hydrocarbon emissions. This could include emergency process evacuation events."
+  },
+  {
+    "id": "69d7f7bb-1e40-4042-a7ae-0a617a79cc16",
+    "content": "## Highwood Glossary - Oil and Gas Climate Initiative (OGCI)\r\nA CEO-led initiative that aims to accelerate the industry response to climate change. OGCI member companies explicitly support the Paris Agreement and its aims."
+  },
+  {
+    "id": "78d38053-0fcc-4f57-b2d5-3039fb6e8d41",
+    "content": "## Highwood Glossary - Oil & Gas Methane Partnership (OGMP)\r\nA Climate and Clean Air Coalition initiative led by the UN Environment Programme, in partnership with the European Commission, the UK Government, the Environmental Defense Fund, and leading oil and gas companies."
+  },
+  {
+    "id": "fb861a99-fabb-4372-971b-68c96bb91a50",
+    "content": "## Highwood Glossary - Quantification\r\nA general term for quantifying emissions. It is often used interchangeably with emission rate estimation, but measuring mixing ratios of a pollutant is also a form of quantification."
+  },
+  {
+    "id": "5926e106-03e0-49b6-a96b-4c346fc6fc75",
+    "content": "## Highwood Glossary - Optical Gas Imaging (OGI)\r\nA common leak detection approach that uses infrared (thermal) cameras to visualize methane and various other organic gases. Common OGI cameras create images of a narrow range of the mid-IR spectrum (3.2− 3.4 μm wavelength) which methane and other light hydrocarbons actively absorb."
+  },
+  {
+    "id": "cf1639eb-137b-4cef-8445-ac281813ca19",
+    "content": "## Highwood Glossary - Orphaned\r\nA site with no known owner. Often occurs when companies go bankrupt."
+  },
+  {
+    "id": "94019431-a02b-4c5a-b500-c66416d31ee2",
+    "content": "## Highwood Glossary - Pneumatic Controller\r\nPneumatic controllers are a type of pneumatic instrument used on oil and gas sites. They control conditions such as temperature, pressure, and fluid levels."
+  },
+  {
+    "id": "435402ea-9556-4fed-911a-e287cb12347e",
+    "content": "## Highwood Glossary - Pneumatic Instrument\r\nOilfield equipment powered through pressurized gas (either air or natural gas). They are frequently used when there is no electricity available on a site, and are a known source of methane emissions. Pneumatic instruments are often designed to vent gas with every cycle of their operation, referred to as \"bleeding\"."
+  },
+  {
+    "id": "6c455278-530c-4b6a-a738-dd21e445a69d",
+    "content": "## Highwood Glossary - Pneumatic Pump\r\nPneumatic pumps are a type of pneumatic instrument. They are used to inject chemicals (such as methanol) into wells and pipelines, or circulate fluids."
+  },
+  {
+    "id": "a16b1be5-7853-49dd-b6a2-26e41230ecff",
+    "content": "## Highwood Glossary - Pressure Relief Valve\r\nA pressure relief valve (PRV) is a safety mechanism used to help regulate the pressure in a system. Pressure relief valves are a leading cause of emissions from hydrocarbon storage tanks. As the pressure in these tanks rises, the valve may open, releasing pressure, and in turn, releasing natural gas into the atmosphere. In this sense, PRVs are a source of venting."
+  },
+  {
+    "id": "883d54cf-0513-4e1e-8932-c0daa110b789",
+    "content": "## Highwood Glossary - Probability of Detection (PoD)\r\nThe probability that a measurement method will successfully detect the presence of a target species such as methane gas in the atmosphere. It is typically depicted as a sigmoid curve where PoD is a function of emission rate. More complex PoD functions may consider other variables relevant for the measurement method (e.g., wind speed)."
+  },
+  {
+    "id": "0ddcb9f6-588d-4b74-9355-304253b5e0f5",
+    "content": "## Highwood Glossary - Reclaimed\r\nA site that has been fully reclaimed, including any wells plugged, topsoil replaced if needed, and vegetation re-established."
+  },
+  {
+    "id": "0fe8e557-4d68-4c73-b90f-305b9b846aef",
+    "content": "## Highwood Glossary - Remediation\r\nThe process by which soil contaminants are managed and removed, and the site is readied for reclamation. In Alberta, this is done following AER and AEP requirements. Contaminated soil may be hauled to a landfill and then replaced with clean soil, or may be treated onsite until it meets AEP guidelines."
+  },
+  {
+    "id": "6353043f-1126-4ce3-8548-271ba8124f87",
+    "content": "## Highwood Glossary - Routine Venting\r\nRoutine venting refers to the intentional release of natural gas into the atmosphere from oil and natural gas equipment. This equipment includes (but is not limited to): pneumatic devices, glycol dehydrators, compressor seals, casing vents, and atmospheric tanks."
+  },
+  {
+    "id": "c4ce5c5c-db4b-4df3-9c7b-81107c44c8c0",
+    "content": "## Highwood Glossary - Scope 1, 2, and 3 Emissions\r\nScope 1 or direct emissions are those emissions arising from sources owned or controlled by an organization within a defined boundary. Scope 2 emissions are indirect emissions from the generation of purchased energy, from a utility provider. Scope 3 emissions are all indirect emissions – not included in scope 2 – that occur in the value chain of the reporting company, including both upstream and downstream emissions."
+  },
+  {
+    "id": "321621d9-0a83-4b20-b0ea-fb8524449ad6",
+    "content": "## Highwood Glossary - Screening\r\nScreening methods are used to rapidly flag high-emitting sites to direct close-range follow-up source diagnosis and root cause analysis. An example of a common screening method is an aerial monitoring campaign."
+  },
+  {
+    "id": "a6168c46-dc6d-4903-a9ef-b58c426ee42d",
+    "content": "## Highwood Glossary - Separator\r\nVessel used for separating a well stream into gaseous and liquid components."
+  },
+  {
+    "id": "97984cca-3c5e-4ea4-ac13-adb542c1417a",
+    "content": "## Highwood Glossary - Super-emitter\r\nAn uncharacteristically large point source of methane. Given that most methane emissions distributions are heavily skewed, a small number of super-emitters can account for the majority of aggregate emissions across the supply chain. Emissions distributions vary widely by basin and production type, so there is debate over what constitutes a super-emitter. Highwood defines a super-emitter as any emission with mass flux rate that exceeds 100 kg/h methane and an ultra-emitter as any source above 1000 kg/h."
+  },
+  {
+    "id": "7393431e-01dc-4e44-bbd9-84785e34d728",
+    "content": "## Highwood Glossary - Surface Casing Vent Flow (SCVF)\r\nA condition where fluid or gas is flowing from the surface casing vent assembly. This term is typically used in conjunction with land wells."
+  },
+  {
+    "id": "52da2e8c-cefe-4eb8-a151-8a2619e51952",
+    "content": "## Highwood Glossary - Suspended\r\nAn inactive site that may be brought back online (i.e., it is not plugged)."
+  },
+  {
+    "id": "4c0fd33a-6e66-4c30-bd0c-0c88564352ee",
+    "content": "## Highwood Glossary - Thief Hatch\r\nAn aperture in a tank or vessel that may be open or closed. They are typically used on low pressure tanks. Thief hatches that have been left open can be a significant source of fugitive emissions."
+  },
+  {
+    "id": "05e12a96-ea18-44cf-8a34-ab69e354f88e",
+    "content": "## Highwood Glossary - Top-down Measurements\r\nAn emissions measurement that aggregates multiple potential sources into a single estimate. Top-down measurements may be equipment scale (consisting of multiple components), site level (consisting of all equipment groups on site), or regional (consisting of all sites in a measurement area)."
+  },
+  {
+    "id": "19ce8134-9c27-4610-8438-6ee381df0d07",
+    "content": "## Highwood Glossary - Transmission\r\nNatural gas transmission systems move natural gas from upstream gathering, processing, or storage facilities to distribution systems, large-volume customers, or other storage/processing facilities."
+  },
+  {
+    "id": "4c189b7b-6bf1-4b19-ab0a-9a8ef83ffd4f",
+    "content": "## Highwood Glossary - Transparency\r\nThe degree to which an initiative or producer discloses their internal operations and standards and allows for accessibility of information regarding an initiative."
+  },
+  {
+    "id": "4cc76690-d57a-4c8e-b767-2cd0d05904af",
+    "content": "## Highwood Glossary - Unaccounted for Gases (UFG)\r\nThe difference between gas receipts and gas deliveries, where gas receipts are volumes that enter a pipeline system and gas deliveries are volumes that exit the pipeline system."
+  },
+  {
+    "id": "6dfc7487-a971-478f-b712-2b3aa8ec8e53",
+    "content": "## Highwood Glossary - Unconventional Oil and Gas\r\nUnconventional resources are hydrocarbon-bearing units where the permeability and porosity are so low that the resource cannot be extracted economically through a vertical well bore and instead required a horizontal well bore followed by multistage hydraulic fracturing to achieve economic production."
+  },
+  {
+    "id": "05014855-aa12-44b5-b7c3-4b57ef87ed5d",
+    "content": "## Highwood Glossary - Unmanned Aerial Vehicle (UAV)\r\nA flying vehicle with no human on board, either automated or remotely operated (see drone)."
+  },
+  {
+    "id": "91ad6c5a-475c-4491-a5e9-9365ca55aca6",
+    "content": "## Highwood Glossary - Upstream\r\nThe first segment in the oil and gas value chain, consisting of exploration and production processes. Activities include drilling, production, and processing."
+  },
+  {
+    "id": "08fa7dc8-39dc-475a-8f9f-4c05c0fd83e3",
+    "content": "## Highwood Glossary - Vapor Recovery Unit (VRU)\r\nA system composed of a scrubber, a compressor, and a switch. Its main purpose is to recover vapors formed inside completely sealed crude oil or condensate tanks. The switch detects pressure variations inside the tanks and turns the compressor on and off. The vapors are sucked through a scrubber, where the liquid trapped is returned to the liquid pipeline system or to the tanks, and the vapor recovered is pumped into gas lines."
+  },
+  {
+    "id": "602864c0-edfd-4a47-be61-71f70a02fab2",
+    "content": "## Highwood Glossary - Vented Emissions\r\nThe direct release of unburned natural gas or other hydrocarbon vapors into the atmosphere. Unlike fugitive emissions, vented emissions occur by design."
+  }
+]
